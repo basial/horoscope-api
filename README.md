@@ -21,7 +21,7 @@ Perfect for anyone who wants a dose of motivation, drama, or absurdity in JSON f
 
 **Default tone:**
 ```bash
-curl https://horoscope-api-adcu.onrender.com/api/horoscope
+curl "https://horoscope-api-adcu.onrender.com/api/horoscope"
 ```
 
 _Response:_
